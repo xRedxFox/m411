@@ -1,6 +1,6 @@
 0. Egor Savitskiy
-1.
-2. Alexandr Generalov
+1.Alexandr Generalov
+2. 
 3.
 4.
 5. Vitaly Markov
